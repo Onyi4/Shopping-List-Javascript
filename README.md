@@ -10,6 +10,8 @@
 
 ## My IT journey
 
-**I started with introduction to python at ReDI, and then moved into webdevelopment where I was previleged to learn HTML and CSS, and JavaScript**
+**I started with introduction to python at ReDI, and then moved into web development where I was previleged to learn HTML and CSS, and JavaScript**
+
+**ReDI has been a home for me**
 
 
