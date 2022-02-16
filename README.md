@@ -1,7 +1,7 @@
 # Biography
 
 
-## My Name is Onyinye Obiefuna**
+## My Name is Onyinye Obiefuna
 
 
 **I am a master's student at RWTH Aachen**
